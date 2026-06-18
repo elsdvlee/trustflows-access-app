@@ -1,0 +1,12 @@
+
+{
+  "@context": "https://www.w3.org/ns/solid/oidc-context.jsonld",
+  "client_id": "http://localhost:5174/client-id.jsonld",
+  "client_name": "TrustFlows Access Tool",
+  "redirect_uris": [
+    "http://localhost:5174"
+  ],
+  "post_logout_redirect_uris": [
+    "http://localhost:5174"
+  ]
+}

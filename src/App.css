@@ -1,0 +1,20 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    font-family: Arial;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+textarea {
+    width: 100%;
+    font-family: monospace;
+}
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
